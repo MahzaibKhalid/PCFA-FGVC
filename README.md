@@ -1,33 +1,23 @@
+
 # PCFA-FGVC
 
 Official PyTorch implementation of **PCFA** for Fine-Grained Visual Classification (FGVC).
 
-This repository provides training, evaluation, and mask precomputation pipelines for applying PCFA on standard fine-grained datasets such as CUB-200-2011, FGVC-Aircraft, Stanford Cars, and Stanford Dogs.
+This repository provides code for:
+
+* Part mask generation
+* Model training
+* Model evaluation
+
+It supports standard fine-grained datasets including CUB-200-2011, FGVC-Aircraft, Stanford Cars, and Stanford Dogs.
 
 ---
 
-## 1. Overview
-
-PCFA is a part-aware feature aggregation framework for fine-grained visual recognition.
-
-The workflow consists of:
-
-1. Dataset preparation
-2. Offline part mask generation (unsupervised)
-3. Model training
-4. Evaluation
-
-All components required to reproduce the experimental pipeline are included in this repository.
-
----
-
-## 2. Installation
-
-### Requirements
+## 1. Requirements
 
 * Python 3.8+
 * PyTorch 2.0+
-* CUDA (for GPU training)
+* CUDA-enabled GPU (recommended)
 
 Install dependencies:
 
@@ -37,18 +27,11 @@ pip install -r requirements.txt
 
 ---
 
-## 3. Dataset Preparation
+## 2. Dataset Preparation
 
 Datasets are **not included** in this repository.
 
-Please download the official datasets from their respective sources:
-
-* CUB-200-2011
-* FGVC-Aircraft
-* Stanford Cars
-* Stanford Dogs
-
-After downloading, organize them as follows:
+Please download the official datasets from their respective sources and organize them as follows:
 
 ```
 datasets/
@@ -65,94 +48,111 @@ datasets/
     └── Dogs/
 ```
 
-Ensure the directory structure matches exactly before training.
+Ensure that the directory structure matches exactly before proceeding.
 
 ---
 
-## 4. Part Mask Generation (Offline Step)
+## 3. Part Mask Generation
+Before training, part masks must be generated once for each dataset.
 
-Before training, part masks must be generated once per dataset.
-
-This process:
+This step:
 
 * Extracts frozen self-supervised features
 * Performs unsupervised clustering
-* Produces spatial part masks
+* Generates spatial part masks
 * Saves masks as a `.pth` file
 
 Example:
 
 ```bash
-python extract_features.py --dataset CUB
+python extract_features.py
+python clutsering.py
 ```
 
 The generated mask file will be saved and reused during training and evaluation.
 
-### Important Note
+### Note on Mask Generation
 
-Part masks are generated using all images in the dataset (train, validation, and test splits) in a fully unsupervised manner. No class labels are used during mask construction.
+Part masks are generated using all available images (train, validation, and test splits) in a fully unsupervised manner. No class labels are used during this process.
 
 ---
 
-## 5. Training
+## 4. Training
 
-After masks are generated:
+After generating part masks, train the model:
 
 ```bash
-python train.py --dataset CUB --backbone vit_b
+python train.py 
 ```
 
-Training will:
+Available backbones include:
 
-* Load precomputed part masks
-* Train the classification model
-* Save checkpoints to the output directory
+* resnet50
+* vit-b
+* swin-b
+* efficientnet-b7
+  
+
+Model checkpoints will be saved in the `checkpoints/` directory.
 
 ---
 
-## 6. Evaluation
+## 5. Evaluation
 
 To evaluate a trained model:
 
 ```bash
-python eval.py --dataset CUB --checkpoint path/to/checkpoint.pth
+python eval.py
 ```
 
-Evaluation will report standard classification metrics.
+Evaluation reports standard classification performance metrics.
+
+---
+
+## 6. Configuration
+
+Training settings (dataset name, backbone, learning rate, etc.) can be modified in the configuration file.
+
+Important options include:
+
+* Dataset selection
+* Backbone selection
+* Whether to use precomputed masks
+* Checkpoint paths
+* Random seed
+
+For reproducibility, random seeds are fixed in the configuration.
 
 ---
 
 ## 7. Reproducibility
 
-* Mask generation is deterministic once computed.
-* Backbone used for mask generation remains frozen.
-* Random seeds are fixed in configuration files.
-
-For exact reproduction, use the same dataset structure and configuration settings.
-
----
-
-## 8. Repository Structure
-
-```
-models/        → Model architecture components  
-utils/         → Utility functions and clustering logic  
-train.py       → Training script  
-eval.py        → Evaluation script  
-extract_features.py → Mask generation script  
-```
+* Mask generation is performed once and reused.
+* The backbone used for mask extraction remains frozen.
+* Random seeds are fixed.
+* All experiments use the same dataset structure described above.
 
 ---
 
-## 9. Citation
+## 8. Citation
 
 If you use this repository in your research, please cite the associated paper.
 
-BibTeX entry will be updated upon publication.
+The BibTeX entry will be updated upon publication.
 
 ---
 
-## 10. License
+## 9. License
 
 This project is released under the MIT License.
 
+---
+
+If you want, I can now:
+
+* Make an even shorter minimalist version (very compact)
+* Add DOI placeholder section for Zenodo
+* Review your actual GitHub page formatting
+* Or move to Zenodo DOI creation steps
+
+Tell me the next step.
