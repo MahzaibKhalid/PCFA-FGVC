@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![PyTorch](https://img
 
 # PCFA-FGVC
 
@@ -66,7 +68,7 @@ Example:
 
 ```bash
 python extract_features.py
-python clutsering.py
+python clustering.py
 ```
 
 The generated mask file will be saved and reused during training and evaluation.
