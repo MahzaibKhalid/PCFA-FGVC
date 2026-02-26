@@ -36,13 +36,13 @@ def main():
     seed = 42
     num_samples = 100  # Number of samples for initial clustering
     num_fg_clusters = 2  # Foreground vs background
-    num_part_clusters = 12  # Number of aircraft parts
+    num_part_clusters = 12  
     
     set_seed(seed)
     
     # Set up paths for Car dataset
     rootdir = f'datasets/RawData/{dataset_name}'
-    output_dir = 'autodl-fs/cars'
+    output_dir = 'datasets/RawData/Car'
     os.makedirs(f'{rootdir}/visualizations', exist_ok=True)
     os.makedirs(f'{output_dir}/visualizations', exist_ok=True)
     
