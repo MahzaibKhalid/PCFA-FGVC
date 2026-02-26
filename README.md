@@ -146,13 +146,3 @@ The BibTeX entry will be updated upon publication.
 
 This project is released under the MIT License.
 
----
-
-If you want, I can now:
-
-* Make an even shorter minimalist version (very compact)
-* Add DOI placeholder section for Zenodo
-* Review your actual GitHub page formatting
-* Or move to Zenodo DOI creation steps
-
-Tell me the next step.
