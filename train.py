@@ -48,9 +48,6 @@ def main():
     elif cfg.DATASET_NAME=='Car':
         train_data = Car_Dataset(pattern="train", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
         test_data = Car_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
-    elif cfg.DATASET_NAME=='NABirds':
-        train_data = NABirds_Dataset(pattern="train", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
-        test_data = NABirds_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
     elif cfg.DATASET_NAME=='Dogs':
         train_data = Dogs_Dataset(pattern="train", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
         test_data = Dogs_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
@@ -83,7 +80,6 @@ def main():
     print(f"Total params: {total_params/1e6:.2f}M")
     print(f"Trainable params: {trainable_params/1e6:.2f}M")
 
-    print(f"✅ DEBUG[train]: has clip_loss={hasattr(model, 'clip_loss')}, has classifier={hasattr(model, 'classifier')}")
     part_name.insert(0, "Coarse")
     part_name.append("Sum")
     max_length = max(len(s) for s in part_name)
