@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![PyTorch](https://img
-
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
+![CUDA](https://img.shields.io/badge/CUDA-Enabled-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # PCFA-FGVC
 
 Official PyTorch implementation of **PCFA** for Fine-Grained Visual Classification (FGVC).
