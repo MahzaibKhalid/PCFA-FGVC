@@ -143,8 +143,8 @@ class CUB_Dataset(Dataset):
         self.cut_box = cut_box
         self.device = device
 
-        self.images_dir = f"autodl-fs/datasets/RawData/CUB/images"
-        with open(f"autodl-fs/datasets/SupplementaryData/CUB/{pattern}.txt", 'r') as file:
+        self.images_dir = f"datasets/RawData/CUB/images"
+        with open(f"datasets/SupplementaryData/CUB/{pattern}.txt", 'r') as file:
             lines = file.readlines()
         self.images_list = []
         self.label_index = []
@@ -157,7 +157,7 @@ class CUB_Dataset(Dataset):
             self.images = load_images(self.images_dir, self.images_list)
 
         if cut_box:
-            with open(f"autodl-fs/datasets/SupplementaryData/CUB/box.txt", 'r') as file:
+            with open(f"datasets/SupplementaryData/CUB/box.txt", 'r') as file:
                 lines = file.readlines()
             self.box = {}
             for line in lines:
@@ -239,8 +239,8 @@ class Car_Dataset(Dataset):
         self.cut_box = cut_box
         self.device = device
 
-        self.images_dir = f"autodl-fs/datasets/RawData/Car/images"
-        with open(f"autodl-fs/datasets/SupplementaryData/Car/{pattern}.txt", 'r') as file:
+        self.images_dir = f"datasets/RawData/Car/images"
+        with open(f"datasets/SupplementaryData/Car/{pattern}.txt", 'r') as file:
             lines = file.readlines()
         self.images_list = []
         self.label_index = []
@@ -253,7 +253,7 @@ class Car_Dataset(Dataset):
             self.images = load_images(self.images_dir, self.images_list)
 
         if cut_box:
-            with open(f"autodl-fs/datasets/SupplementaryData/Car/box.txt", 'r') as file:
+            with open(f"datasets/SupplementaryData/Car/box.txt", 'r') as file:
                 lines = file.readlines()
             self.box = {}
             for line in lines:
@@ -334,8 +334,8 @@ class Dogs_Dataset(Dataset):
         self.cut_box = cut_box
         self.device = device
 
-        self.images_dir = f"autodl-fs/datasets/RawData/Dogs/images"
-        with open(f"autodl-fs/datasets/SupplementaryData/Dogs/{pattern}.txt", 'r') as file:
+        self.images_dir = f"datasets/RawData/Dogs/images"
+        with open(f"datasets/SupplementaryData/Dogs/{pattern}.txt", 'r') as file:
             lines = file.readlines()
         self.images_list = []
         self.label_index = []
@@ -348,7 +348,7 @@ class Dogs_Dataset(Dataset):
             self.images = load_images(self.images_dir, self.images_list)
 
         if cut_box:
-            with open(f"autodl-fs/datasets/SupplementaryData/Dogs/box.txt", 'r') as file:
+            with open(f"datasets/SupplementaryData/Dogs/box.txt", 'r') as file:
                 lines = file.readlines()
             self.box = {}
             for line in lines:
