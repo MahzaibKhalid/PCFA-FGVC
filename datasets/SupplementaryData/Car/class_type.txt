@@ -1,0 +1,196 @@
+AM General Hummer SUV 2000, SUV, Off-road Vehicle  
+Acura RL Sedan 2012, Sedan, Luxury Vehicle  
+Acura TL Sedan 2012, Sedan, Luxury Vehicle  
+Acura TL Type-S 2008, Sedan, Performance Vehicle  
+Acura TSX Sedan 2012, Sedan, Luxury Vehicle  
+Acura Integra Type R 2001, Coupe, Performance Vehicle  
+Acura ZDX Hatchback 2012, Hatchback, Luxury Vehicle  
+Aston Martin V8 Vantage Convertible 2012, Convertible, Luxury Vehicle  
+Aston Martin V8 Vantage Coupe 2012, Coupe, Luxury Vehicle  
+Aston Martin Virage Convertible 2012, Convertible, Luxury Vehicle  
+Aston Martin Virage Coupe 2012, Coupe, Luxury Vehicle  
+Audi RS 4 Convertible 2008, Convertible, Performance Vehicle  
+Audi A5 Coupe 2012, Coupe, Luxury Vehicle  
+Audi TTS Coupe 2012, Coupe, Performance Vehicle  
+Audi R8 Coupe 2012, Coupe, Performance Vehicle  
+Audi V8 Sedan 1994, Sedan, Luxury Vehicle  
+Audi 100 Sedan 1994, Sedan, Family Car  
+Audi 100 Wagon 1994, Wagon, Family Car  
+Audi TT Hatchback 2011, Hatchback, Performance Vehicle  
+Audi S6 Sedan 2011, Sedan, Performance Vehicle  
+Audi S5 Convertible 2012, Convertible, Performance Vehicle  
+Audi S5 Coupe 2012, Coupe, Performance Vehicle  
+Audi S4 Sedan 2012, Sedan, Performance Vehicle  
+Audi S4 Sedan 2007, Sedan, Performance Vehicle  
+Audi TT RS Coupe 2012, Coupe, Performance Vehicle  
+BMW ActiveHybrid 5 Sedan 2012, Sedan, Hybrid Vehicle  
+BMW 1 Series Convertible 2012, Convertible, Luxury Vehicle  
+BMW 1 Series Coupe 2012, Coupe, Luxury Vehicle  
+BMW 3 Series Sedan 2012, Sedan, Luxury Vehicle  
+BMW 3 Series Wagon 2012, Wagon, Luxury Vehicle  
+BMW 6 Series Convertible 2007, Convertible, Luxury Vehicle  
+BMW X5 SUV 2007, SUV, Luxury Vehicle  
+BMW X6 SUV 2012, SUV, Luxury Vehicle  
+BMW M3 Coupe 2012, Coupe, Performance Vehicle  
+BMW M5 Sedan 2010, Sedan, Performance Vehicle  
+BMW M6 Convertible 2010, Convertible, Performance Vehicle  
+BMW X3 SUV 2012, SUV, Luxury Vehicle  
+BMW Z4 Convertible 2012, Convertible, Performance Vehicle  
+Bentley Continental Supersports Conv. Convertible 2012, Convertible, Luxury Vehicle  
+Bentley Arnage Sedan 2009, Sedan, Luxury Vehicle  
+Bentley Mulsanne Sedan 2011, Sedan, Luxury Vehicle  
+Bentley Continental GT Coupe 2012, Coupe, Luxury Vehicle  
+Bentley Continental GT Coupe 2007, Coupe, Luxury Vehicle  
+Bentley Continental Flying Spur Sedan 2007, Sedan, Luxury Vehicle  
+Bugatti Veyron 16.4 Convertible 2009, Convertible, Performance Vehicle  
+Bugatti Veyron 16.4 Coupe 2009, Coupe, Performance Vehicle  
+Buick Regal GS 2012, Sedan, Family Car  
+Buick Rainier SUV 2007, SUV, Family Car  
+Buick Verano Sedan 2012, Sedan, Family Car  
+Buick Enclave SUV 2012, SUV, Family Car  
+Cadillac CTS-V Sedan 2012, Sedan, Performance Vehicle  
+Cadillac SRX SUV 2012, SUV, Luxury Vehicle  
+Cadillac Escalade EXT Crew Cab 2007, SUV, Luxury Vehicle  
+Chevrolet Silverado 1500 Hybrid Crew Cab 2012, Pickup Truck, Hybrid Vehicle  
+Chevrolet Corvette Convertible 2012, Convertible, Performance Vehicle  
+Chevrolet Corvette ZR1 2012, Coupe, Performance Vehicle  
+Chevrolet Corvette Ron Fellows Edition Z06 2007, Coupe, Performance Vehicle  
+Chevrolet Traverse SUV 2012, SUV, Family Car  
+Chevrolet Camaro Convertible 2012, Convertible, Performance Vehicle  
+Chevrolet HHR SS 2010, Hatchback, Performance Vehicle  
+Chevrolet Impala Sedan 2007, Sedan, Family Car  
+Chevrolet Tahoe Hybrid SUV 2012, SUV, Hybrid Vehicle  
+Chevrolet Sonic Sedan 2012, Sedan, Family Car  
+Chevrolet Express Cargo Van 2007, Van, Commercial Vehicle  
+Chevrolet Avalanche Crew Cab 2012, Pickup Truck, Family Car  
+Chevrolet Cobalt SS 2010, Sedan, Performance Vehicle  
+Chevrolet Malibu Hybrid Sedan 2010, Sedan, Hybrid Vehicle  
+Chevrolet TrailBlazer SS 2009, SUV, Performance Vehicle  
+Chevrolet Silverado 2500HD Regular Cab 2012, Pickup Truck, Commercial Vehicle  
+Chevrolet Silverado 1500 Classic Extended Cab 2007, Pickup Truck, Family Car  
+Chevrolet Express Van 2007, Van, Commercial Vehicle  
+Chevrolet Monte Carlo Coupe 2007, Coupe, Performance Vehicle  
+Chevrolet Malibu Sedan 2007, Sedan, Family Car  
+Chevrolet Silverado 1500 Extended Cab 2012, Pickup Truck, Family Car  
+Chevrolet Silverado 1500 Regular Cab 2012, Pickup Truck, Commercial Vehicle  
+Chrysler Aspen SUV 2009, SUV, Family Car  
+Chrysler Sebring Convertible 2010, Convertible, Family Car  
+Chrysler Town and Country Minivan 2012, Minivan, Family Car  
+Chrysler 300 SRT-8 2010, Sedan, Performance Vehicle  
+Chrysler Crossfire Convertible 2008, Convertible, Performance Vehicle  
+Chrysler PT Cruiser Convertible 2008, Convertible, Family Car  
+Daewoo Nubira Wagon 2002, Wagon, Family Car  
+Dodge Caliber Wagon 2012, Wagon, Family Car  
+Dodge Caliber Wagon 2007, Wagon, Family Car  
+Dodge Caravan Minivan 1997, Minivan, Family Car  
+Dodge Ram Pickup 3500 Crew Cab 2010, Pickup Truck, Commercial Vehicle  
+Dodge Ram Pickup 3500 Quad Cab 2009, Pickup Truck, Commercial Vehicle  
+Dodge Sprinter Cargo Van 2009, Van, Commercial Vehicle  
+Dodge Journey SUV 2012, SUV, Family Car  
+Dodge Dakota Crew Cab 2010, Pickup Truck, Commercial Vehicle  
+Dodge Dakota Club Cab 2007, Pickup Truck, Commercial Vehicle  
+Dodge Magnum Wagon 2008, Wagon, Family Car  
+Dodge Challenger SRT8 2011, Coupe, Performance Vehicle  
+Dodge Durango SUV 2012, SUV, Family Car  
+Dodge Durango SUV 2007, SUV, Family Car  
+Dodge Charger Sedan 2012, Sedan, Performance Vehicle  
+Dodge Charger SRT-8 2009, Sedan, Performance Vehicle  
+Eagle Talon Hatchback 1998, Hatchback, Performance Vehicle  
+FIAT 500 Abarth 2012, Hatchback, City Car  
+FIAT 500 Convertible 2012, Convertible, City Car  
+Ferrari FF Coupe 2012, Coupe, Performance Vehicle  
+Ferrari California Convertible 2012, Convertible, Performance Vehicle  
+Ferrari 458 Italia Convertible 2012, Convertible, Performance Vehicle  
+Ferrari 458 Italia Coupe 2012, Coupe, Performance Vehicle  
+Fisker Karma Sedan 2012, Sedan, Hybrid Vehicle  
+Ford F-450 Super Duty Crew Cab 2012, Pickup Truck, Commercial Vehicle  
+Ford Mustang Convertible 2007, Convertible, Performance Vehicle  
+Ford Freestar Minivan 2007, Minivan, Family Car  
+Ford Expedition EL SUV 2009, SUV, Family Car  
+Ford Edge SUV 2012, SUV, Family Car  
+Ford Ranger SuperCab 2011, Pickup Truck, Commercial Vehicle  
+Ford GT Coupe 2006, Coupe, Performance Vehicle  
+Ford F-150 Regular Cab 2012, Pickup Truck, Commercial Vehicle  
+Ford F-150 Regular Cab 2007, Pickup Truck, Commercial Vehicle  
+Ford Focus Sedan 2007, Sedan, Family Car  
+Ford E-Series Wagon Van 2012, Van, Commercial Vehicle  
+Ford Fiesta Sedan 2012, Sedan, Family Car  
+GMC Terrain SUV 2012, SUV, Family Car  
+GMC Savana Van 2012, Van, Commercial Vehicle  
+GMC Yukon Hybrid SUV 2012, SUV, Hybrid Vehicle  
+GMC Acadia SUV 2012, SUV, Family Car  
+GMC Canyon Extended Cab 2012, Pickup Truck, Commercial Vehicle  
+Geo Metro Convertible 1993, Convertible, City Car  
+HUMMER H3T Crew Cab 2010, Pickup Truck, Off-road Vehicle  
+HUMMER H2 SUT Crew Cab 2009, Pickup Truck, Off-road Vehicle  
+Honda Odyssey Minivan 2012, Minivan, Family Car  
+Honda Odyssey Minivan 2007, Minivan, Family Car  
+Honda Accord Coupe 2012, Coupe, Family Car  
+Honda Accord Sedan 2012, Sedan, Family Car  
+Hyundai Veloster Hatchback 2012, Hatchback, City Car  
+Hyundai Santa Fe SUV 2012, SUV, Family Car  
+Hyundai Tucson SUV 2012, SUV, Family Car  
+Hyundai Veracruz SUV 2012, SUV, Family Car  
+Hyundai Sonata Hybrid Sedan 2012, Sedan, Hybrid Vehicle  
+Hyundai Elantra Sedan 2007, Sedan, Family Car  
+Hyundai Accent Sedan 2012, Sedan, City Car  
+Hyundai Genesis Sedan 2012, Sedan, Luxury Vehicle  
+Hyundai Sonata Sedan 2012, Sedan, Family Car  
+Hyundai Elantra Touring Hatchback 2012, Hatchback, Family Car  
+Hyundai Azera Sedan 2012, Sedan, Luxury Vehicle  
+Infiniti G Coupe IPL 2012, Coupe, Performance Vehicle  
+Infiniti QX56 SUV 2011, SUV, Luxury Vehicle  
+Isuzu Ascender SUV 2008, SUV, Family Car  
+Jaguar XK XKR 2012, Coupe, Luxury Vehicle  
+Jeep Patriot SUV 2012, SUV, Off-road Vehicle  
+Jeep Wrangler SUV 2012, SUV, Off-road Vehicle  
+Jeep Liberty SUV 2012, SUV, Family Car  
+Jeep Grand Cherokee SUV 2012, SUV, Family Car  
+Jeep Compass SUV 2012, SUV, Family Car  
+Lamborghini Reventon Coupe 2008, Coupe, Performance Vehicle  
+Lamborghini Aventador Coupe 2012, Coupe, Performance Vehicle  
+Lamborghini Gallardo LP 570-4 Superleggera 2012, Coupe, Performance Vehicle  
+Lamborghini Diablo Coupe 2001, Coupe, Performance Vehicle  
+Land Rover Range Rover SUV 2012, SUV, Off-road Vehicle  
+Land Rover LR2 SUV 2012, SUV, Off-road Vehicle  
+Lincoln Town Car Sedan 2011, Sedan, Luxury Vehicle  
+MINI Cooper Roadster Convertible 2012, Convertible, City Car  
+Maybach Landaulet Convertible 2012, Convertible, Luxury Vehicle  
+Mazda Tribute SUV 2011, SUV, Family Car  
+McLaren MP4-12C Coupe 2012, Coupe, Performance Vehicle  
+Mercedes-Benz 300-Class Convertible 1993, Convertible, Luxury Vehicle  
+Mercedes-Benz C-Class Sedan 2012, Sedan, Luxury Vehicle  
+Mercedes-Benz SL-Class Coupe 2009, Coupe, Luxury Vehicle  
+Mercedes-Benz E-Class Sedan 2012, Sedan, Luxury Vehicle  
+Mercedes-Benz S-Class Sedan 2012, Sedan, Luxury Vehicle  
+Mercedes-Benz Sprinter Van 2012, Van, Commercial Vehicle  
+Mitsubishi Lancer Sedan 2012, Sedan, Family Car  
+Nissan Leaf Hatchback 2012, Hatchback, Electric Vehicle  
+Nissan NV Passenger Van 2012, Van, Commercial Vehicle  
+Nissan Juke Hatchback 2012, Hatchback, Family Car  
+Nissan 240SX Coupe 1998, Coupe, Performance Vehicle  
+Plymouth Neon Coupe 1999, Coupe, City Car  
+Porsche Panamera Sedan 2012, Sedan, Luxury Vehicle  
+Ram C/V Cargo Van Minivan 2012, Minivan, Commercial Vehicle  
+Rolls-Royce Phantom Drophead Coupe Convertible 2012, Convertible, Luxury Vehicle  
+Rolls-Royce Ghost Sedan 2012, Sedan, Luxury Vehicle  
+Rolls-Royce Phantom Sedan 2012, Sedan, Luxury Vehicle  
+Scion xD Hatchback 2012, Hatchback, City Car  
+Spyker C8 Convertible 2009, Convertible, Luxury Vehicle  
+Spyker C8 Coupe 2009, Coupe, Luxury Vehicle  
+Suzuki Aerio Sedan 2007, Sedan, Family Car  
+Suzuki Kizashi Sedan 2012, Sedan, Family Car  
+Suzuki SX4 Hatchback 2012, Hatchback, Family Car  
+Suzuki SX4 Sedan 2012, Sedan, Family Car  
+Tesla Model S Sedan 2012, Sedan, Electric Vehicle  
+Toyota Sequoia SUV 2012, SUV, Family Car  
+Toyota Camry Sedan 2012, Sedan, Family Car  
+Toyota Corolla Sedan 2012, Sedan, Family Car  
+Toyota 4Runner SUV 2012, SUV, Off-road Vehicle  
+Volkswagen Golf Hatchback 2012, Hatchback, Family Car  
+Volkswagen Golf Hatchback 1991, Hatchback, Family Car  
+Volkswagen Beetle Hatchback 2012, Hatchback, City Car  
+Volvo C30 Hatchback 2012, Hatchback, Family Car  
+Volvo 240 Sedan 1993, Sedan, Family Car  
+Volvo XC90 SUV 2007, SUV, Family Car  
+smart fortwo Convertible 2012, Convertible, City Car

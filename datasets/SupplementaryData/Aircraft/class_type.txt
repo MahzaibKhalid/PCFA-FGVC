@@ -1,0 +1,100 @@
+707-320, narrow-body airliner, four-engined jet aircraft
+727-200, narrow-body airliner, trijet
+737-200, narrow-body airliner, twinjet
+737-300, narrow-body airliner, twinjet
+737-400, narrow-body airliner, twinjet
+737-500, narrow-body airliner, twinjet
+737-600, narrow-body airliner, twinjet
+737-700, narrow-body airliner, twinjet
+737-800, narrow-body airliner, twinjet
+737-900, narrow-body airliner, twinjet
+747-100, wide-body airliner, four-engined jet aircraft
+747-200, wide-body airliner, four-engined jet aircraft
+747-300, wide-body airliner, four-engined jet aircraft
+747-400, wide-body airliner, four-engined jet aircraft
+757-200, narrow-body airliner, twinjet
+757-300, narrow-body airliner, twinjet
+767-200, wide-body airliner, twinjet
+767-300, wide-body airliner, twinjet
+767-400, wide-body airliner, twinjet
+777-200, wide-body airliner, twinjet
+777-300, wide-body airliner, twinjet
+A300B4, wide-body airliner, twinjet
+A310, wide-body airliner, twinjet
+A318, narrow-body airliner, twinjet
+A319, narrow-body airliner, twinjet
+A320, narrow-body airliner, twinjet
+A321, narrow-body airliner, twinjet
+A330-200, wide-body airliner, twinjet
+A330-300, wide-body airliner, twinjet
+A340-200, wide-body airliner, four-engined jet aircraft
+A340-300, wide-body airliner, four-engined jet aircraft
+A340-500, wide-body airliner, four-engined jet aircraft
+A340-600, wide-body airliner, four-engined jet aircraft
+A380, wide-body airliner, four-engined jet aircraft
+ATR-42, regional airliner, twin-turboprop
+ATR-72, regional airliner, twin-turboprop
+An-12, cargo aircraft, four-engined turboprop
+BAE 146-200, regional airliner, four-engined jet aircraft
+BAE 146-300, regional airliner, four-engined jet aircraft
+BAE-125, business jet, twinjet
+Beechcraft 1900, regional airliner, twin-turboprop
+Boeing 717, narrow-body airliner, twinjet
+C-130, cargo aircraft, four-engined turboprop
+C-47, cargo aircraft, twin-turboprop
+CRJ-200, regional airliner, twinjet
+CRJ-700, regional airliner, twinjet
+CRJ-900, regional airliner, twinjet
+Cessna 172, light aircraft, single-turboprop
+Cessna 208, light aircraft, single-turboprop
+Cessna 525, business jet, twinjet
+Cessna 560, business jet, twinjet
+Challenger 600, business jet, twinjet
+DC-10, wide-body airliner, trijet
+DC-3, cargo aircraft, twin-turboprop
+DC-6, cargo aircraft, four-engined turboprop
+DC-8, narrow-body airliner, four-engined jet aircraft
+DC-9-30, narrow-body airliner, twinjet
+DH-82, light aircraft, single-turboprop
+DHC-1, light aircraft, single-turboprop
+DHC-6, light aircraft, twin-turboprop
+DHC-8-100, regional airliner, twin-turboprop
+DHC-8-300, regional airliner, twin-turboprop
+DR-400, light aircraft, single-turboprop
+Dornier 328, regional airliner, twin-turboprop
+E-170, regional airliner, twinjet
+E-190, regional airliner, twinjet
+E-195, regional airliner, twinjet
+EMB-120, regional airliner, twin-turboprop
+ERJ 135, regional airliner, twinjet
+ERJ 145, regional airliner, twinjet
+Embraer Legacy 600, business jet, twinjet
+Eurofighter Typhoon, fighter aircraft, twinjet
+F-16A/B, fighter aircraft, single-engine jet
+F/A-18, fighter aircraft, twinjet
+Falcon 2000, business jet, twinjet
+Falcon 900, business jet, trijet
+Fokker 100, regional airliner, twinjet
+Fokker 50, regional airliner, twin-turboprop
+Fokker 70, regional airliner, twinjet
+Global Express, business jet, twinjet
+Gulfstream IV, business jet, twinjet
+Gulfstream V, business jet, twinjet
+Hawk T1, light aircraft, single-engine jet
+Il-76, cargo aircraft, four-engined jet aircraft
+L-1011, wide-body airliner, trijet
+MD-11, wide-body airliner, trijet
+MD-80, narrow-body airliner, twinjet
+MD-87, narrow-body airliner, twinjet
+MD-90, narrow-body airliner, twinjet
+Metroliner, regional airliner, twin-turboprop
+Model B200, light aircraft, twin-turboprop
+PA-28, light aircraft, single-turboprop
+SR-20, light aircraft, single-turboprop
+Saab 2000, regional airliner, twin-turboprop
+Saab 340, regional airliner, twin-turboprop
+Spitfire, fighter aircraft, single-turboprop
+Tornado, fighter aircraft, twinjet
+Tu-134, narrow-body airliner, twinjet
+Tu-154, narrow-body airliner, trijet
+Yak-42, narrow-body airliner, trijet

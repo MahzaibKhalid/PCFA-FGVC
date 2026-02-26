@@ -35,7 +35,7 @@ class PACF_model(nn.Module):
             self.part_masks = torch.load(part_mask_path, map_location=device)  # (N, 16, 16)
             self.num_parts = len(part_name)
         else:
-            # Original ClearCLIP setup - masks will be computed dynamically
+            
             pass
 
         self.high_resolution_size = high_resolution_size
@@ -43,28 +43,6 @@ class PACF_model(nn.Module):
         self.seg_atten_size = seg_atten_size
         self.embed_dim = embed_dim
         self.to_scale = to_scale
-
-        # Set up dataset-specific parameters
-        if dataset_name=='Aircraft':
-            base_class = 'plane'
-            class_text = 'fine_class_description'
-            split = ', '
-        elif dataset_name=='CUB':
-            base_class = 'bird'
-            class_text = 'fine_class_full_name'
-            split = ', '
-        elif dataset_name=='Car':
-            base_class = 'car'
-            class_text = 'fine_class_description'
-            split = ', '
-        elif dataset_name=='NABirds':
-            base_class = 'bird'
-            class_text = 'classes'
-            split = '|'
-        elif dataset_name=='Dogs':
-            base_class = 'dog'
-            class_text = 'classes'
-            split = ', '
 
         # Load class information (robust to comma- or whitespace-separated formats)
         with open(f"datasets/SupplementaryData/{dataset_name}/class_type.txt", 'r', encoding='utf-8') as file:
@@ -111,12 +89,6 @@ class PACF_model(nn.Module):
                 class_set.append(label_b)
                 class_type[key] = [label_a, label_b]
         self.class_set = sorted(list(set(class_set)))
-
-        with open(f"datasets/SupplementaryData/{dataset_name}/{class_text}.txt", 'r', encoding='utf-8') as file: #fine_class_description.txt fine_class_full_name.txt
-            lines = file.readlines()  
-            encode_names = []
-            for i, line in enumerate(lines):
-                encode_names.append(line.strip())
 
         class_num = len(list(class_type.keys()))
         self.class_num = class_num
@@ -184,9 +156,9 @@ class PACF_model(nn.Module):
             input_dim_1 = input_dim_2 = input_dim_3 = self.backbone.Xception.feature_info[3]['num_chs']
             input_dim_4 = input_dim
         elif backbone=='efficientnet-b7':
-            self.backbone = EfficientNet_B7_WithIntermediate(device, stage=stage, pretrain=pretrain).to(device)
+            self.backbone = EfficientNetB7WithIntermediate(device, stage=stage, pretrain=pretrain).to(device)
             # timm efficientnet exposes num_features and pretrained_cfg for input size
-            input_dim = self.backbone.efficientnet.num_features
+            input_dim = self.backbone.effnet.num_features
             # Force EfficientNet-B7 input to 448x448 as requested
             self.high_resolution_size = 448
             # For stage==1 only input_dim is used; fill others safely

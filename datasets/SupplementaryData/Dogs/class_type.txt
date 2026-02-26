@@ -1,0 +1,120 @@
+chihuahua, Toy, Toy-group
+japanese spaniel, Toy, Toy-spaniel
+maltese dog, Toy, Toy-group
+pekinese, Toy, Toy-group
+shih-tzu, Toy, Toy-group
+blenheim spaniel, Sporting, Spaniel
+papillon, Toy, Toy-group
+toy terrier, Toy, Terrier-toy
+rhodesian ridgeback, Hound, Sighthound
+afghan hound, Hound, Sighthound
+basset, Hound, Scenthound
+beagle, Hound, Scenthound
+bloodhound, Hound, Scenthound
+bluetick, Hound, Scenthound
+black-and-tan coonhound, Hound, Scenthound
+walker hound, Hound, Scenthound
+english foxhound, Hound, Scenthound
+redbone, Hound, Scenthound
+borzoi, Hound, Sighthound
+irish wolfhound, Hound, Sighthound
+italian greyhound, Hound, Sighthound
+whippet, Hound, SFighthound
+ibizan hound, Hound, Sighthound
+norwegian elkhound, Hound, Scenthound
+otterhound, Hound, Scenthound
+saluki, Hound, Sighthound
+scottish deerhound, Hound, Sighthound
+weimaraner, Sporting, Pointer
+staffordshire bullterrier, Terrier, Bull-type
+american staffordshire terrier, Terrier, Bull-type
+bedlington terrier, Terrier, Terrier-group
+border terrier, Terrier, Terrier-group
+kerry blue terrier, Terrier, Terrier-group
+irish terrier, Terrier, Terrier-group
+norfolk terrier, Terrier, Terrier-group
+norwich terrier, Terrier, Terrier-group
+yorkshire terrier, Terrier, Terrier-toy
+wire-haired fox terrier, Terrier, Terrier-group
+lakeland terrier, Terrier, Terrier-group
+sealyham terrier, Terrier, Terrier-group
+airedale, Terrier, Terrier-group
+cairn, Terrier, Terrier-group
+australian terrier, Terrier, Terrier-group
+dandie dinmont, Terrier, Terrier-group
+boston bull, Non-Sporting, Non-Sporting-group
+miniature schnauzer, Terrier, Terrier-group
+giant schnauzer, Working, Working-group
+standard schnauzer, Working, Working-group
+scotch terrier, Terrier, Terrier-group
+tibetan terrier, Non-Sporting, Non-Sporting-group
+silky terrier, Toy, Terrier-toy
+soft-coated wheaten terrier, Terrier, Terrier-group
+west highland white terrier, Terrier, Terrier-group
+lhasa, Non-Sporting, Non-Sporting-group
+flat-coated retriever, Sporting, Retriever
+curly-coated retriever, Sporting, Retriever
+golden retriever, Sporting, Retriever
+labrador retriever, Sporting, Retriever
+chesapeake bay retriever, Sporting, Retriever
+german short-haired pointer, Sporting, Pointer
+vizsla, Sporting, Pointer
+english setter, Sporting, Setter
+irish setter, Sporting, Setter
+gordon setter, Sporting, Setter
+brittany spaniel, Sporting, Spaniel
+clumber, Sporting, Spaniel
+english springer, Sporting, Spaniel
+welsh springer spaniel, Sporting, Spaniel
+cocker spaniel, Sporting, Spaniel
+sussex spaniel, Sporting, Spaniel
+irish water spaniel, Sporting, Spaniel
+kuvasz, Working, Working-group
+schipperke, Non-Sporting, Non-Sporting-group
+groenendael, Herding, Herding-group
+malinois, Herding, Herding-group
+briard, Herding, Herding-group
+kelpie, Herding, Herding-group
+komondor, Working, Working-group
+old english sheepdog, Herding, Herding-group
+shetland sheepdog, Herding, Herding-group
+collie, Herding, Herding-group
+border collie, Herding, Herding-group
+bouvier des flandres, Herding, Herding-group
+rottweiler, Working, Working-group
+german shepherd, Herding, Herding-group
+doberman, Working, Working-group
+miniature pinscher, Toy, Toy-group
+greater swiss mountain dog, Working, Working-group
+bernese mountain dog, Working, Working-group
+appenzeller, Working, Working-group
+entlebucher, Working, Working-group
+boxer, Working, Working-group
+bull mastiff, Working, Working-group
+tibetan mastiff, Working, Working-group
+french bulldog, Non-Sporting, Non-Sporting-group
+great dane, Working, Working-group
+saint bernard, Working, Working-group
+eskimo dog, Working, Working-group
+malamute, Working, Working-group
+siberian husky, Working, Working-group
+affenpinscher, Toy, Toy-group
+basenji, Hound, Sighthound
+pug, Toy, Toy-group
+leonberg, Working, Working-group
+newfoundland, Working, Working-group
+great pyrenees, Working, Working-group
+samoyed, Working, Working-group
+pomeranian, Toy, Toy-group
+chow, Non-Sporting, Non-Sporting-group
+keeshond, Non-Sporting, Non-Sporting-group
+brabancon griffon, Non-Sporting, Non-Sporting-group
+pembroke, Herding, Herding-group
+cardigan, Herding, Herding-group
+toy poodle, Non-Sporting, Non-Sporting-group
+miniature poodle, Non-Sporting, Non-Sporting-group
+standard poodle, Non-Sporting, Non-Sporting-group
+mexican hairless, Non-Sporting, Non-Sporting-group
+dingo, Non-Sporting, Non-Sporting-group
+dhole, Non-Sporting, Non-Sporting-group
+african hunting dog, Hound, Sighthound

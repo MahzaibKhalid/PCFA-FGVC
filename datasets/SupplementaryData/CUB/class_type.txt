@@ -1,0 +1,200 @@
+Black footed Albatross, Albatrosses, Seabirds  
+Laysan Albatross, Albatrosses, Seabirds  
+Sooty Albatross, Albatrosses, Seabirds  
+Groove billed Ani, Anis, Cuckoos  
+Crested Auklet, Auklets, Seabirds  
+Least Auklet, Auklets, Seabirds  
+Parakeet Auklet, Auklets, Seabirds  
+Rhinoceros Auklet, Auklets, Seabirds  
+Brewer Blackbird, Blackbirds, Songbirds  
+Red winged Blackbird, Blackbirds, Songbirds  
+Rusty Blackbird, Blackbirds, Songbirds  
+Yellow headed Blackbird, Blackbirds, Songbirds  
+Bobolink, Songbirds, Blackbirds  
+Indigo Bunting, Buntings, Songbirds  
+Lazuli Bunting, Buntings, Songbirds  
+Painted Bunting, Buntings, Songbirds  
+Cardinal, Cardinals, Songbirds  
+Spotted Catbird, Catbirds, Songbirds  
+Gray Catbird, Catbirds, Songbirds  
+Yellow breasted Chat, Chats, Songbirds  
+Eastern Towhee, Towhees, Songbirds  
+Chuck will Widow, Nightjars, Nocturnal Birds  
+Brandt Cormorant, Cormorants, Seabirds  
+Red faced Cormorant, Cormorants, Seabirds  
+Pelagic Cormorant, Cormorants, Seabirds  
+Bronzed Cowbird, Cowbirds, Songbirds  
+Shiny Cowbird, Cowbirds, Songbirds  
+Brown Creeper, Creepers, Songbirds  
+American Crow, Crows, Corvids  
+Fish Crow, Crows, Corvids  
+Black billed Cuckoo, Cuckoos, Songbirds  
+Mangrove Cuckoo, Cuckoos, Songbirds  
+Yellow billed Cuckoo, Cuckoos, Songbirds  
+Gray crowned Rosy Finch, Finches, Songbirds  
+Purple Finch, Finches, Songbirds  
+Northern Flicker, Flickers, Woodpeckers  
+Acadian Flycatcher, Flycatchers, Songbirds  
+Great Crested Flycatcher, Flycatchers, Songbirds  
+Least Flycatcher, Flycatchers, Songbirds  
+Olive sided Flycatcher, Flycatchers, Songbirds  
+Scissor tailed Flycatcher, Flycatchers, Songbirds  
+Vermilion Flycatcher, Flycatchers, Songbirds  
+Yellow bellied Flycatcher, Flycatchers, Songbirds  
+Frigatebird, Seabirds, Waterbirds  
+Northern Fulmar, Seabirds, Waterbirds  
+Gadwall, Ducks, Waterbirds  
+American Goldfinch, Finches, Songbirds  
+European Goldfinch, Finches, Songbirds  
+Boat tailed Grackle, Grackles, Songbirds  
+Eared Grebe, Grebes, Waterbirds  
+Horned Grebe, Grebes, Waterbirds  
+Pied billed Grebe, Grebes, Waterbirds  
+Western Grebe, Grebes, Waterbirds  
+Blue Grosbeak, Grosbeaks, Songbirds  
+Evening Grosbeak, Grosbeaks, Songbirds  
+Pine Grosbeak, Grosbeaks, Songbirds  
+Rose breasted Grosbeak, Grosbeaks, Songbirds  
+Pigeon Guillemot, Seabirds, Waterbirds  
+California Gull, Gulls, Seabirds  
+Glaucous winged Gull, Gulls, Seabirds  
+Heermann Gull, Gulls, Seabirds  
+Herring Gull, Gulls, Seabirds  
+Ivory Gull, Gulls, Seabirds  
+Ring billed Gull, Gulls, Seabirds  
+Slaty backed Gull, Gulls, Seabirds  
+Western Gull, Gulls, Seabirds  
+Anna Hummingbird, Hummingbirds, Songbirds  
+Ruby throated Hummingbird, Hummingbirds, Songbirds  
+Rufous Hummingbird, Hummingbirds, Songbirds  
+Green Violetear, Hummingbirds, Songbirds  
+Long tailed Jaeger, Jaegers, Seabirds  
+Pomarine Jaeger, Jaegers, Seabirds  
+Blue Jay, Jays, Corvids  
+Florida Jay, Jays, Corvids  
+Green Jay, Jays, Corvids  
+Dark eyed Junco, Juncos, Songbirds  
+Tropical Kingbird, Kingbirds, Flycatchers  
+Gray Kingbird, Kingbirds, Flycatchers  
+Belted Kingfisher, Kingfishers, Waterbirds  
+Green Kingfisher, Kingfishers, Waterbirds  
+Pied Kingfisher, Kingfishers, Waterbirds  
+Ringed Kingfisher, Kingfishers, Waterbirds  
+White breasted Kingfisher, Kingfishers, Waterbirds  
+Red legged Kittiwake, Gulls, Seabirds  
+Horned Lark, Larks, Songbirds  
+Pacific Loon, Loons, Waterbirds  
+Mallard, Ducks, Waterbirds  
+Western Meadowlark, Larks, Songbirds  
+Hooded Merganser, Mergansers, Waterbirds  
+Red breasted Merganser, Mergansers, Waterbirds  
+Mockingbird, Mockingbirds, Songbirds  
+Nighthawk, Nightjars, Nocturnal Birds  
+Clark Nutcracker, Corvids, Songbirds  
+White breasted Nuthatch, Nuthatches, Songbirds  
+Baltimore Oriole, Orioles, Songbirds  
+Hooded Oriole, Orioles, Songbirds  
+Orchard Oriole, Orioles, Songbirds  
+Scott Oriole, Orioles, Songbirds  
+Ovenbird, Warblers, Songbirds  
+Brown Pelican, Pelicans, Waterbirds  
+White Pelican, Pelicans, Waterbirds  
+Western Wood Pewee, Flycatchers, Songbirds  
+Sayornis, Flycatchers, Songbirds  
+American Pipit, Pipits, Songbirds  
+Whip poor Will, Nightjars, Nocturnal Birds  
+Horned Puffin, Puffins, Seabirds  
+Common Raven, Ravens, Corvids  
+White necked Raven, Ravens, Corvids  
+American Redstart, Warblers, Songbirds  
+Geococcyx, Roadrunners, Cuckoos  
+Loggerhead Shrike, Shrikes, Songbirds  
+Great Grey Shrike, Shrikes, Songbirds  
+Baird Sparrow, Sparrows, Songbirds  
+Black throated Sparrow, Sparrows, Songbirds  
+Brewer Sparrow, Sparrows, Songbirds  
+Chipping Sparrow, Sparrows, Songbirds  
+Clay colored Sparrow, Sparrows, Songbirds  
+House Sparrow, Sparrows, Songbirds  
+Field Sparrow, Sparrows, Songbirds  
+Fox Sparrow, Sparrows, Songbirds  
+Grasshopper Sparrow, Sparrows, Songbirds  
+Harris Sparrow, Sparrows, Songbirds  
+Henslow Sparrow, Sparrows, Songbirds  
+Le Conte Sparrow, Sparrows, Songbirds  
+Lincoln Sparrow, Sparrows, Songbirds  
+Nelson Sharp tailed Sparrow, Sparrows, Songbirds  
+Savannah Sparrow, Sparrows, Songbirds  
+Seaside Sparrow, Sparrows, Songbirds  
+Song Sparrow, Sparrows, Songbirds  
+Tree Sparrow, Sparrows, Songbirds  
+Vesper Sparrow, Sparrows, Songbirds  
+White crowned Sparrow, Sparrows, Songbirds  
+White throated Sparrow, Sparrows, Songbirds  
+Cape Glossy Starling, Starlings, Songbirds  
+Bank Swallow, Swallows, Songbirds  
+Barn Swallow, Swallows, Songbirds  
+Cliff Swallow, Swallows, Songbirds  
+Tree Swallow, Swallows, Songbirds  
+Scarlet Tanager, Tanagers, Songbirds  
+Summer Tanager, Tanagers, Songbirds  
+Artic Tern, Terns, Seabirds  
+Black Tern, Terns, Seabirds  
+Caspian Tern, Terns, Seabirds  
+Common Tern, Terns, Seabirds  
+Elegant Tern, Terns, Seabirds  
+Forsters Tern, Terns, Seabirds  
+Least Tern, Terns, Seabirds  
+Green tailed Towhee, Towhees, Songbirds  
+Brown Thrasher, Thrashers, Songbirds  
+Sage Thrasher, Thrashers, Songbirds  
+Black capped Vireo, Vireos, Songbirds  
+Blue headed Vireo, Vireos, Songbirds  
+Philadelphia Vireo, Vireos, Songbirds  
+Red eyed Vireo, Vireos, Songbirds  
+Warbling Vireo, Vireos, Songbirds  
+White eyed Vireo, Vireos, Songbirds  
+Yellow throated Vireo, Vireos, Songbirds  
+Bay breasted Warbler, Warblers, Songbirds  
+Black and white Warbler, Warblers, Songbirds  
+Black throated Blue Warbler, Warblers, Songbirds  
+Blue winged Warbler, Warblers, Songbirds  
+Canada Warbler, Warblers, Songbirds  
+Cape May Warbler, Warblers, Songbirds  
+Cerulean Warbler, Warblers, Songbirds  
+Chestnut sided Warbler, Warblers, Songbirds  
+Golden winged Warbler, Warblers, Songbirds  
+Hooded Warbler, Warblers, Songbirds  
+Kentucky Warbler, Warblers, Songbirds  
+Magnolia Warbler, Warblers, Songbirds  
+Mourning Warbler, Warblers, Songbirds  
+Myrtle Warbler, Warblers, Songbirds  
+Nashville Warbler, Warblers, Songbirds  
+Orange crowned Warbler, Warblers, Songbirds  
+Palm Warbler, Warblers, Songbirds  
+Pine Warbler, Warblers, Songbirds  
+Prairie Warbler, Warblers, Songbirds  
+Prothonotary Warbler, Warblers, Songbirds  
+Swainson Warbler, Warblers, Songbirds  
+Tennessee Warbler, Warblers, Songbirds  
+Wilson Warbler, Warblers, Songbirds  
+Worm eating Warbler, Warblers, Songbirds  
+Yellow Warbler, Warblers, Songbirds  
+Northern Waterthrush, Waterthrushes, Songbirds  
+Louisiana Waterthrush, Waterthrushes, Songbirds  
+Bohemian Waxwing, Waxwings, Songbirds  
+Cedar Waxwing, Waxwings, Songbirds  
+American Three toed Woodpecker, Woodpeckers, Birds of Prey  
+Pileated Woodpecker, Woodpeckers, Birds of Prey  
+Red bellied Woodpecker, Woodpeckers, Birds of Prey  
+Red cockaded Woodpecker, Woodpeckers, Birds of Prey  
+Red headed Woodpecker, Woodpeckers, Birds of Prey  
+Downy Woodpecker, Woodpeckers, Birds of Prey  
+Bewick Wren, Wrens, Songbirds  
+Cactus Wren, Wrens, Songbirds  
+Carolina Wren, Wrens, Songbirds  
+House Wren, Wrens, Songbirds  
+Marsh Wren, Wrens, Songbirds  
+Rock Wren, Wrens, Songbirds  
+Winter Wren, Wrens, Songbirds  
+Common Yellowthroat, Warblers, Songbirds
