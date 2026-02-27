@@ -10,7 +10,7 @@ from tqdm import tqdm
 from loguru import logger
 
 from model.PACF import PACF_model
-from utils.dataset import Aircraft_Dataset, CUB_Dataset, Car_Dataset, NABirds_Dataset, Dogs_Dataset, PACF_Collate
+from utils.dataset import Aircraft_Dataset, CUB_Dataset, Car_Dataset, Dogs_Dataset, PACF_Collate
 import torch.nn as nn
 from torch.amp import GradScaler, autocast
 import warnings
@@ -32,8 +32,6 @@ def main():
         test_data = CUB_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
     elif cfg.DATASET_NAME=='Car':
         test_data = Car_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
-    elif cfg.DATASET_NAME=='NABirds':
-        test_data = NABirds_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
     elif cfg.DATASET_NAME=='Dogs':
         test_data = Dogs_Dataset(pattern="test", device=device, load_cache=cfg.LOAD_CACHE, cut_box=cfg.CUT_BOX)
     else:    
