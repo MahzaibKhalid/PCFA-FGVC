@@ -113,21 +113,26 @@ Evaluation reports standard classification performance metrics.
 
 ---
 
-## 6. Configuration
-
-Training settings (dataset name, backbone, learning rate, etc.) can be modified in the configuration file.
-
-Important options include:
-
-* Dataset selection
-* Backbone selection
-* Whether to use precomputed masks
-* Checkpoint paths
-* Random seed
-
-For reproducibility, random seeds are fixed in the configuration.
+## 6. Pretrained Model Weights
 
 ---
+
+Pretrained model checkpoints for **ViT-B on CUB-200-2011** are publicly available on Zenodo:
+
+🔗 https://zenodo.org/records/18807756  
+📌 DOI: https://doi.org/10.5281/zenodo.18787437
+
+This release includes:
+
+- `PCFA_CUB_vit_b_best_acc.pt` — Best accuracy checkpoint  
+- `PCFA_CUB_vit_b_best_loss.pt` — Best loss checkpoint  
+- `PCFA_CUB_vit_b_model_last.pt` — Final training checkpoint  
+
+These weights correspond to the results reported in the manuscript submitted to *The Visual Computer (Springer Nature)*.
+
+After downloading, place the checkpoints inside:
+checkpoints/
+Then specify the checkpoint path in the configuration file before evaluation.
 
 ## 7. Reproducibility
 
